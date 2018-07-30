@@ -20,7 +20,6 @@ import java.net.MalformedURLException;
 
 public class ViewToPdfConverter {
 
-
     public static class ViewToPdfBuilder {
         private String PathToStore;
         private String FileNameWithoutExt;
